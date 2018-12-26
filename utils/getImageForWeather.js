@@ -1,6 +1,7 @@
 /* eslint-disable global-require */
 
 const images = {
+  Clock :  require ('../assets/clock.jpg'),
   Clear: require('../assets/clear.png'),
   Hail: require('../assets/hail.png'),
   'Heavy Cloud': require('../assets/heavy-cloud.png'),
